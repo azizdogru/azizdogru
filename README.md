@@ -13,3 +13,11 @@ You can click the Preview link to take a look at your changes.
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/azizdogru/)
 
+
+Skills
+
+- AWS; Computer Network Basics, Linux Bash Scripting, AWS Identity & Access Management (IAM), Amazon EC2 & Elastic Block Store, Amazon Simple Storage Service (S3)
+Amazon Virtual Private Cloud (VPC), Elastic Load Balancing, CloudFormation, CloudWatch & Auto-Scaling, Lambda & API Gateway, AWS Security (WAF), Cloudfront, AWS CLI
+EFS, Databases & AWS, SQS & SNS & RDS, Domain Name System & Route 53, Amazon ElastiCache & Elastic Beanstalk, AWS SDK for Python (Boto3)
+
+- DevOps; Terraform. (Jenkins, Maven, Ansible, Prometheus, Grafana, Nexus Artifactory, Docker, Kubernetes, Helm, Rancher, AWS ECR & ECS & EKS are loading :))
