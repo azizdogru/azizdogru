@@ -20,7 +20,7 @@ SKILLS :
 Amazon Virtual Private Cloud (VPC), Elastic Load Balancing, CloudFormation, CloudWatch & Auto-Scaling, Lambda & API Gateway, AWS Security (WAF), Cloudfront, AWS CLI
 EFS, Databases & AWS, SQS & SNS & RDS, Domain Name System & Route 53, Amazon ElastiCache & Elastic Beanstalk, AWS SDK for Python (Boto3)
 
-- DevOps; Terraform, Docker, Kubernetes, Helm, Rancher, AWS ECR & ECS & EKS . (Jenkins, Maven, Ansible, Prometheus, Grafana, Nexus Artifactory are loading :))
+- DevOps; Terraform, Docker, Kubernetes, Helm, Rancher, AWS ECR & ECS & EKS, Jenkins, Maven, Ansible, Prometheus, Grafana, Nexus Artifactory
 
 
 <br/>  
