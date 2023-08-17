@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aziz Dogru.
 - 👀 I’m interested in Cloud Systems and DevOps Engineering.
-- 🌱 Having 3+ years of experience in IT and 1+ years of experience in DevOps and Cloud Systems(AWS-Microsoft Azure). 
+- 🌱 Having 3+ years of experience in IT and 2+ years of experience in DevOps and Cloud Systems(AWS-Microsoft Azure). 
 - 💞️ Passionate about automation of IT processes. Expert in designing and building effective Continuous Integration and Delivery (CI/CD) pipelines using containerization, orchestration, monitoring, infrastructure automation tools, configuration management tools, and AWS solutions. 
 - 📫 You can reach me at the link below.
 
